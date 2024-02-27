@@ -1,0 +1,6 @@
+[submodule "RiceG42"]
+	path = RiceG42
+	url = https://github.com/nguyendinhchi064/RiceG42
+[submodule "GP6-UI"]
+	path = GP6-UI
+	url = https://github.com/Paotic/GP6-UI
